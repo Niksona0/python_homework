@@ -1,0 +1,1 @@
+print("Second lesson of python / turtle")
